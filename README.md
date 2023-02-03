@@ -46,7 +46,7 @@ Primeiro projeto proposto pelo Curso Fullstack - Alura / Programa Desenvolve Gru
 
 ### 4 - Versão Mobile
 
-- ver em pasta "prints site barbearia"
+![contato page](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/prints%20site%20barbearia/printmobile.jpg)
 
 
 
