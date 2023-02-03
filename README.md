@@ -1,7 +1,7 @@
 # Site-Barbearia-Alura
 Site de Barbearia em Html e Css / Projeto proposto pelo curso Fullstack - Alura  
 
-![logo-barbearia] (../imagens/logo.png) 
+![Homepage image](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/imagens/logo-branco.png)
 
 
 ## Site Barbearia Alura
@@ -33,22 +33,20 @@ Primeiro projeto proposto pelo Curso Fullstack - Alura / Programa Desenvolve Gru
 
 ### 1 - Home
 
-![Homepage image](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/home.png)
+![Homepage image](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/prints%20site%20barbearia/Print-home.png)
 
 ### 2 - Serviços
 
-![Posts](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/posts.png)
+![Servicos page](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/prints%20site%20barbearia/Print-servicos.png)
 
 ### 3 - Contato
 
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_1.png)
+![contato page](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/prints%20site%20barbearia/Print-contato.png)
 
 
 ### 4 - Versão Mobile
 
-![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_1.png)
-![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_2.png)
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_3.png)
+- ver em pasta "prints site barbearia"
 
 
 
