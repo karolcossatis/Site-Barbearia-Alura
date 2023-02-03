@@ -1,7 +1,7 @@
 # Site Barbearia Alura
 Site de Barbearia em Html e Css / Projeto proposto pelo curso Fullstack - Alura  
 
-![Homepage image](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/imagens/logo-branco.png)
+![Homepage image](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/logofaixa.png)
 
 
 ## Site Barbearia Alura
