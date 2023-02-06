@@ -1,0 +1,376 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+   
+}
+
+:root {
+    --corclarageral: #fefefe;
+    --corcinzasbeneficios: #888888;
+    --corcinzabanner: #bbbbbb;
+    
+
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: var(--corcinzabanner);
+    width: 100%;
+    padding: 20px;
+
+}
+
+#container-cabecalho {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+       
+}
+
+nav a {
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+/* fim do css cabecalho geral */
+
+/*css HOME */
+
+.banner-home {
+    width: 100%;
+}
+
+#main-home h1 {
+    font-size: 2em;
+    margin: 0 0 1em;
+    font-weight: bold;
+    text-align: center;
+    clear: left;
+}
+
+
+.imagem-sobre {
+    width: 150px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+#container-sobre {
+    padding: 3em 0;
+	background: var(--corclarageral);
+	width: 940px;
+    margin: 0 auto;
+}
+
+#container-sobre p {
+    margin: 0 0 1em;
+}
+
+p em {
+    font-style: italic;
+}
+
+p strong {
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.6em;
+    margin: 0 0 1em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#container-mapa p {
+    text-align: center;
+    padding: 1em;
+}
+#container-mapa {
+    clear: both;
+    padding: 3em 0;
+    background:  linear-gradient(#FEFEFE, #888888);
+}
+
+.mapa {
+    width: 940px;
+    margin: 30px auto;
+}
+
+#container-beneficios {
+    background: var(--corcinzasbeneficios);
+    padding: 3em 0;
+}
+
+.conteudo-beneficios {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.conteudo-beneficios img {
+    width: 60%;
+	opacity: 1;
+	transition: 400ms;
+	box-shadow: 10px 10px 10px 0 #000000;
+}
+
+.conteudo-beneficios ul {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.conteudo-beneficios li {
+    line-height: 1.5em;
+}
+
+#container-video {
+    background: var(--corcinzasbeneficios);
+    padding: 3em 0;
+}
+
+.video {
+    width: 540px;
+    margin: 2em auto;
+}
+
+
+
+
+/* ~~~~~~Fim do CSS HOME ~~~~~~~~*/
+
+/* Css SERVIÇOS */
+
+
+.servico {
+    width: 940px;
+    margin: 0 auto;
+	padding: 50px 0;
+
+}
+
+.servico li {
+    display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.servico li:hover {
+    border-color: #C78C19;
+    transform: scale(1.2);
+}
+
+.servico li:hover h1 {
+    font-size: 31px;
+}
+
+.servico li:active {
+    border-color: #088C19;
+    
+    
+}
+
+#cabelo {
+    width: 97%;
+}
+
+.servico h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.servico p {
+    font-size: 18px;
+}
+
+.preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* ~~~~~~Fim do CSS SERVIÇOS ~~~~~~~*/
+
+/* Css contato */
+
+#main-contato {
+   padding: 40px;
+}
+form  {
+   margin: 40px 0;
+}
+
+form label, legend {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+    font-weight: bold;
+}
+
+.input-padrao {
+    display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+}
+
+select {
+    padding: 10px;
+    font-size: 15px;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+.botao-enviar {
+    width: 40%;
+    padding: 20px;
+    background: orange;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--corclarageral);
+    cursor: pointer;
+    transition: 1s all;
+
+}
+
+.botao-enviar:hover {
+    background: darkorange;
+    transform: scale(1.2);
+
+}
+
+table {
+    margin: 20px 0 40px;
+}
+
+
+td,tr {
+    border: #000000 solid 1px;
+    padding: 8px 15px;
+}
+
+tr:first-child {
+    background-color: var(--corcinzabanner);
+}
+
+
+
+/* ~~~~~~Fim do CSS contato ~~~~~~~*/
+
+
+
+/* css footer */
+
+footer {
+    background: url(../imagens/bg.jpg)  ;
+    text-align: center;
+    padding: 40px 0;
+}
+
+
+
+.frase-footer {
+    color: var(--corclarageral);
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 480px) {
+    #container-sobre,#container-beneficios, #main-home ,#container-mapa, .mapa, .video, .conteudo-beneficios, #main-servico  {
+        width: 100%;
+        
+    }
+    
+    #container-sobre,#container-beneficios,#container-mapa, .mapa, .video, .conteudo-beneficios {
+        padding: 5px;
+        
+    }
+    #main-servico {
+        width: 100%;
+       
+    }
+
+    .servico img{
+        width: 50%;
+    }
+
+    
+
+	h1 {
+		text-align: center;
+        padding: 2px;
+	}
+
+   header {
+       display: block;
+       padding: 10px;
+       
+    }
+
+    #container-cabecalho {
+        margin: 0px auto;
+        width: 95%;
+        align-items: center;
+       
+
+    }
+
+    #container-cabecalho img {
+        width: 100%;
+        
+    }
+
+	nav {
+		position: static;
+	}
+
+    #main-servico{
+        width: 100%;
+                     
+    }
+
+    #main-servico li {
+        display: block;
+        margin: 10px 40px ;
+        
+       
+    }
+    
+
+
+   
+	
+}
