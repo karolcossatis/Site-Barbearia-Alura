@@ -37,7 +37,7 @@ Primeiro projeto proposto pelo Curso Fullstack - Alura / Programa Desenvolve Gru
 
 ### 2 - Serviços
 
-![Servicos page](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/main/prints%20site%20barbearia/Print-servicos.png)
+![Servicos page](https://github.com/karolcossatis/Site-Barbearia-Alura/blob/master/prints%20site%20barbearia/print-servicos.png)
 
 ### 3 - Contato
 
